@@ -18,6 +18,7 @@ the calculations happening in the background of the games
 ## What is Included?
 - Stat calculation based on the user's given information
   including the name, nature, IVs, and EVs of the Pokemon
+- Allows user to save a build for a Pokemon
 
 ## Anything planned for the Future?
 Here are a few things I might add to the calculator:
