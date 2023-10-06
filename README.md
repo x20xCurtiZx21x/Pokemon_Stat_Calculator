@@ -18,17 +18,17 @@ the Pokemon's Name, Nature, IVs, and EVs
 I created this program to practice my coding skills and learn more about
 the calculations happening in the background of the games
 
-## Functionality
+### Functionality
 - Stat calculation based on the user's given information
   including the name, nature, IVs, and EVs of the Pokemon
 - Allows the user to save a build for a Pokemon
 
-## Future Plans
+### Future Plans
 Here are a few things I might add to the calculator:
 - Damage calculator
 - Nature, IVs, and EVs explanation
 
-## Questions?
+### Questions?
 If you have any questions or suggestions, feel free to reach me:
 - curtischase6@gmail.com
 - curtischase6@ku.edu
